@@ -1,0 +1,28 @@
+/* body{
+    background-color: red;
+} */
+
+.para{
+    color: rgb(255, 89, 0);
+}
+
+/* #cv-form{
+    display: none; 
+ } */
+
+ #cv-template{
+    display: none;
+ }
+ .myimg{
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 200px;
+ }
+
+ .background{
+    background-color: rgb(74, 110, 148);
+ }
+
+
+
+ 
